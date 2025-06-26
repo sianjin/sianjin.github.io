@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Sian Jin"
-  avatar : "/assets/images/my-photo.jpg"
+  avatar : "/assets/images/sian_photo.jpeg"
   bio    : "Signal processing engineer interested in wireless and AI."
   links:
     - label: "Website"
