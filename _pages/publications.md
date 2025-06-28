@@ -21,8 +21,7 @@ US20240077601A1, March 2024
 US20230296725A1, September 2023
 
 **Books:**
-- S. Jin, X. Gao, and S. Roy. “Cognition in Automotive Radars”. Chapter 15, Next Generation Cognitive Radar Systems, IET,
-2023.
+- S. Jin, X. Gao, and S. Roy. “Cognition in Automotive Radars”. Chapter 15, Next Generation Cognitive Radar Systems, IET, 2023.
 
 **Conference Papers:**
 - S. Jin, P. Wang, P. Boufounos, R. Takahashi, and S. Roy. “Spatial-Domain Object Detection under Structural MIMO-FMCW
