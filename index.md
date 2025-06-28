@@ -5,5 +5,3 @@
 layout: home
 author_profile: true
 ---
-
-I am a **signal processing engineer** at MathWorks.
