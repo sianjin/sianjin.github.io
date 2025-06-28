@@ -9,10 +9,13 @@ Automotive Radar,” in IEEE Transactions on Vehicular Technology (TVT), 2024.
   <iframe src="https://drive.google.com/file/d/1ptCX9sBf74aHiO08kfAQOEUdKrxJiLff/preview" width="640" height="480" allow="autoplay"></iframe>
 - S. Jin and S. Roy. “FMCW Radar Network: Multiple Access and Interference Mitigation,” in IEEE Journal of Selected Topics
 in Signal Processing (JSTSP), Special Issue on Recent Advances in Automotive Radar Signal Processing, 2021.
+  <iframe src="https://drive.google.com/file/d/15xtbuzowHXJ4-tY3twLHdWIS_Y20BG29/preview" width="640" height="480" allow="autoplay"></iframe>
 - S. Jin, S. Roy, and T. R. Henderson. “Efficient PHY Layer Abstraction for Faster Simulations in Complex System
 Environments,” in IEEE Transactions on Communications (TCOM), 2021.
+  <iframe src="https://drive.google.com/file/d/1fTIKp1ePIIyv1a6l50cNKU9AAJRd1kW0/preview" width="640" height="480" allow="autoplay"></iframe>
 - S. Jin, Y. Cui, H. Liu and G. Caire, "A New Order-Optimal Decentralized Coded Caching Scheme With Good Performance in
 the Finite File Size Regime," in IEEE Transactions on Communications (TCOM), 2019.
+  <iframe src="https://drive.google.com/file/d/1p0lC_-_3_vWWR7D_EyHWGJgGNGCRYQUb/preview" width="640" height="480" allow="autoplay"></iframe>
 
 **US Patents:**
 - P. Wang, S. Jin, P. Boufounos, P. Orlik. “System and Method for Detecting an Object in a Scene”, US Patent,
