@@ -12,5 +12,5 @@ A whitener aims at whitening the data covariance matrix, such that the whitened 
 
 Check out the [My Medium on Whitener] for more detail.
 
-[My Medium on Whitener]: https://medium.com/@sianjin.mathworks/cram%C3%A9r-rao-lower-bound-206b526569f6
+[My Medium on Whitener]: https://medium.com/@sianjin.mathworks/whitener-0e5eeaf5077a
 
