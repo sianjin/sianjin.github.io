@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Sian Jin"
   avatar : "/assets/images/sian_photo.jpeg"
-  bio    : "Signal processing engineer interested in wireless and AI."
+  bio    : "Engineer interested in statistics and AI."
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
